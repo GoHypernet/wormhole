@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GoHypernet/wormhole/blob/master/galileo_pres.png" width="500">
+  <img src="https://github.com/GoHypernet/wormhole/blob/main/galileo_pres.png" width="500">
 </p>
 
 # Wormhole
