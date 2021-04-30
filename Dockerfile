@@ -9,3 +9,5 @@ RUN tar -xvf C:\cloudflared.zip
 FROM mcr.microsoft.com/windows/nanoserver:1809
 
 COPY --from=stage1 /cloudflared.exe /cloudflared.exe
+
+ENTRYPOINT ["C:\\cloudflared.exe","--no-autoupdate"]
