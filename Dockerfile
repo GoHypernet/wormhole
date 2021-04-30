@@ -1,0 +1,1 @@
+FROM cloudflare/cloudflared:2020.7.0-amd64
