@@ -1,0 +1,1 @@
+FROM cloudflare/cloudflared:2021.7.4
