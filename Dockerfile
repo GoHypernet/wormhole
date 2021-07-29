@@ -1,1 +1,1 @@
-FROM cloudflare/cloudflared:2020.7.0-amd64
+FROM cloudflare/cloudflared:2021.7.4
