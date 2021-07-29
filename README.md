@@ -4,5 +4,8 @@
 
 # Wormhole
 
-This repository contains Dockerfiles for building the sidecar containers that are managed by the Galileo 
-LZ daemon. There are two branches: linux and windows. 
+This repository contains Dockerfiles for building the sidecar
+containers that are managed by the Galileo LZ daemon. Choose the
+appropriate Dockerfile using the `-f` flag, e.g.
+
+```docker build -t hypernetlabs/wormhole -f linux.Dockerfile .```
